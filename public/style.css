@@ -1,0 +1,403 @@
+@media only screen and (max-width: 600px){}
+body{
+    overflow-x: hidden;
+}
+
+.upper  {
+    background-color: blue; 
+    width: 100%;
+}
+
+img {
+    padding-top: 20px;
+    padding-left: 20px;
+    
+}
+
+p {
+    display: inline;
+    padding-left: 40px;
+    color: whitesmoke;
+    font-size: 13pt;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.upper button {
+    margin: 10px 20px 10px 10px; 
+    width: 110px;
+    height: 35px;
+}
+
+.upper2 {
+    background-color: whitesmoke;
+    height: 90px;
+}
+
+.upper2 img {
+    width: 250px;
+    padding-bottom: 5px;
+    padding-right: 400px;
+    padding-top: 10px;
+}
+
+.upper2 button:hover {
+    border-radius: 15px;
+    background-color: blue;
+}
+
+.buttons {
+    position: relative;
+    left: 90px;
+    bottom: 30%;
+    display: inline;
+    padding-top: 10px;
+}
+
+.homeimage img {
+    width: 98%;
+    height: 500px;
+}
+
+.news {
+    background-color: blue;
+    text-align: center;
+}
+
+.intro {
+    background-color: whitesmoke;
+    margin: auto 10px auto 10px;
+    text-align: center;
+}
+
+.intro img {
+    position: relative;
+    bottom: 40px;
+    right: 8px;
+}
+
+.introduction  {
+    padding-left: 50px;
+    margin: auto 5px 5px 5px;
+    overflow: hidden;
+    /* wid */
+    text-align: justify;
+    background-color: whitesmoke;
+    font-size: 14pt;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    height: 4.5in;
+}
+
+.Numbers {
+    background-color: blue;
+    padding-bottom: 70px;
+    width: 100%;
+    padding-top:50px ;
+    display: inline-block;
+    /* padding-left: 0px; */
+}
+
+.dastarkhawan
+{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 10px;
+    width: 300px;
+    text-align: center;
+    /* padding-left: 30px; */
+}
+
+.dastarkhawan h2 {
+
+    font-family: Candara;
+    font-weight: 500;
+    color: white;
+    font-size: 30pt;
+}
+
+.dastarkhawan img {
+    
+    width: 40px;
+    height: 40px;
+    position: relative;
+    right: 12px;
+
+}
+
+.dastarkhawan h5 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: white;
+    font-size: 11pt;
+}
+.Family
+{
+    display: inline-block;
+
+    margin-left: 20px;
+    margin-right: 10px;
+    width: 300px;
+    text-align: center;
+
+    text-align: center;
+    /* padding-left: 30px; */
+}
+
+.Family h2 {
+
+    font-family: Candara;
+    font-weight: 500;
+    color: white;
+    font-size: 30pt;
+}
+
+.Family img {
+    
+    width: 40px;
+    height: 40px;
+    position: relative;
+    right: 12px;
+
+}
+
+.Family h5 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: white;
+    font-size: 11pt;
+}
+.Medical
+{
+    display: inline-block;
+
+    margin-left: 20px;
+    margin-right: 10px;
+    width: 300px;
+    text-align: center;
+
+    /* padding-left: 30px; */
+}
+
+.Medical h2 {
+
+    font-family: Candara;
+    font-weight: 500;
+    color: white;
+    font-size: 30pt;
+}
+
+.Medical img {
+    
+    width: 40px;
+    height: 40px;
+    position: relative;
+    right: 12px;
+
+}
+
+.Medical h5 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: white;
+    font-size: 11pt;
+}
+.Education
+{
+    display: inline-block;
+    margin-left: 0px;
+    margin-right: 10px;
+    width: 300px;
+    text-align: center;
+    /* padding-left: 30px; */
+}
+
+.Education h2{
+    
+    font-family: Candara;
+    font-weight: 500;
+    color: white;
+    font-size: 30pt;
+}
+
+.Education img {
+    
+    width: 40px;
+    height: 40px;
+    position: relative;
+    right: 12px;
+
+}
+
+.Education h5 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: white;
+    font-size: 11pt;
+}
+
+
+
+.Activities h1{
+    text-align: center;
+    font-family:  'Open Sans', sans-serif;
+}
+
+.Activities img{
+position: relative;
+left: 47%;
+bottom:30px;
+}
+.Services{background-color: aqua;
+}
+.Services div{
+    display: inline-block;
+    /* display: flex; */
+    position: relative;
+    margin: 10px 40px 10px 40px;
+    width: 350px;
+    height: 200px;
+    background-color:whitesmoke;
+    color: blue;
+    font-weight: 600;
+    padding-top: 20px;
+    font-size: 14pt;
+    font-family: 'Open Sans', sans-serif;
+    box-shadow: 0 0 10px gray ;
+    
+    
+}
+
+.Services img{
+    width: 70px;
+   
+    height: 80px;
+
+}
+
+.Upcoming div{
+display: inline-block;
+/* display: flex; */
+position: relative;
+margin: 20px 5px 10px 50px;
+width: 350px;
+height: 70px;
+background-color:whitesmoke;
+color: blue;
+font-weight: 600;
+
+font-size: 12pt;
+font-family: 'Open Sans', sans-serif;
+border: 0.5px solid lightgray;
+}
+
+h4{
+    display: inline;
+    padding-left: 25px;
+    position: relative;
+    bottom: 10px;
+}
+
+.Feed{
+    position: relative;
+    left: 880px;
+    bottom:270px;
+    width: 300px;
+    height: 300px;
+    /* background-color: whitesmoke; */
+    
+}
+.Feed h2::after{
+    
+    color:blue;
+    font-size: 18pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.Feed h2:after
+{
+    content:' ';
+    display:block;
+    border:1px solid lightgray;
+}
+
+.Feed {
+    color: gray;
+    font-size: 12pt;
+    text-align: start;
+}
+.Gallery{
+position: relative;
+bottom: 250px;
+left: 18px;}
+.Gallery img{
+    position: relative;
+    left: 47%;
+    bottom: 20px;
+   
+}
+.Gallery h1{
+    text-align: center;
+}
+
+.pic img {
+    position: relative;
+    bottom:220px;
+    left: 100px;
+    width: 200px;
+    height: 140px;
+}
+
+.end{
+    width: 100%;
+    height: 350px;
+    background-color: #1e1820;
+    padding-top: 110px;
+    
+}
+
+.Contact,.Contact2{
+    padding-left: 80px;
+    color: lightgray;
+}
+
+.Links{
+    color: white;
+    position: relative;
+    left: 40%;
+    bottom: 60%;    
+
+}
+
+.connect{
+    color: white;
+    position: relative;
+    left: 70%;
+    bottom: 72%;    
+    
+}
+
+.connect img{
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+}
+
+
+
+.footer{
+    position: relative;
+    bottom: 23px;
+    width: 100%;
+    color: white;
+    background-color: blue;
+    height: 70px;
+
+}
+
+.footer h5{
+    font-size: 8pt;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    padding-left: 60px;
+}
